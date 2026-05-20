@@ -2,8 +2,9 @@
 See full flight RocketPy simulation in [TexasL1.ipynb](TexasL1.ipynb)
 
 ~~*Expected Launch: 22 Nov 2025*~~      
-~~*Expected Launch: 25 April 2026*~~    
-*Expected Launch: 30 May 2026*   
+~~*Expected Launch: 25 April 2026*~~   
+~~*Expected Launch: 30 May 2026*~~   
+*Expected Launch: 20 June 2026*   
 
 ## Overview
 
