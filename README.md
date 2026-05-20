@@ -55,7 +55,7 @@ April 2026 - Motor changes due to shipment issues
 | Time to Apogee | seconds | 10.6 s |
 | Expected Apogee | m | 711 m |
 | Max Velocity | m/s | 183 m/s |
-| Max Acceleration | $m/s^2$ | 241 m/s² |
+| Max Acceleration | m/s² | 241 m/s² |
 | Ground hit velocity | m/s | 14.5 m/s |
 
 <img width="3684" height="996" alt="image" src="https://github.com/user-attachments/assets/e002c8b0-4903-4744-a35f-8284ae8a623f" />
