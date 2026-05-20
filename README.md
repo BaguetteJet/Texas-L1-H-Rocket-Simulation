@@ -1,11 +1,13 @@
 # Texas L1 - My First High Power Rocket
+See full flight RocketPy simulation in [TexasL1.ipynb](TexasL1.ipynb)
+
 ~~*Expected Launch: 22 Nov 2025*~~      
 ~~*Expected Launch: 25 April 2026*~~    
 *Expected Launch: 30 May 2026*   
 
 ## Overview
 
-Texas L1 is my first high-power rocket build, created with the purpose of earning a Level 1 High Power Rocketry Certification. Designed though OpenRocket with the guidance of [ULAS HiPR](https://www.ulas-hipr.ie/). The mission prioritizes simplicity, survivability and recoverability.
+Texas L1 is my first high-power rocket build, created with the purpose of earning Level 1 High Power Rocketry Certification. Designed though OpenRocket with the guidance of [ULAS HiPR](https://www.ulas-hipr.ie/). The mission prioritizes simplicity, survivability and recoverability.
 
 <img width="2000" height="520" alt="image" src="https://github.com/user-attachments/assets/51911fea-cb7d-4783-91ca-beb0507f5a47" />
 
