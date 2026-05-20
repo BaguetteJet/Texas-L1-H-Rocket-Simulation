@@ -34,8 +34,7 @@ Nov 2025
 
 ~~22 Nov 2025 - LAUNCH DAY~~ (delayed)
 
-April 2026
-- UPDATE - Motor changes due to shipment issues
+April 2026 - Motor changes due to shipment issues
 
 30 May 2026 - LAUNCH DAY
 
