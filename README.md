@@ -1,11 +1,14 @@
 # Texas L1 - My First High Power Rocket
+See full flight RocketPy simulation in [TexasL1.ipynb](TexasL1.ipynb)
+
 ~~*Expected Launch: 22 Nov 2025*~~      
-~~*Expected Launch: 25 April 2026*~~    
-*Expected Launch: 30 May 2026*   
+~~*Expected Launch: 25 April 2026*~~   
+~~*Expected Launch: 30 May 2026*~~   
+*Expected Launch: 20 June 2026*   
 
 ## Overview
 
-Texas L1 is my first high-power rocket build, created with the purpose of earning a Level 1 High Power Rocketry Certification. Designed though OpenRocket with the guidance of [ULAS HiPR](https://www.ulas-hipr.ie/). The mission prioritizes simplicity, survivability and recoverability.
+Texas L1 is my first high-power rocket build, created with the purpose of earning Level 1 High Power Rocketry Certification. Designed though OpenRocket with the guidance of [ULAS HiPR](https://www.ulas-hipr.ie/). The mission prioritizes simplicity, survivability and recoverability.
 
 <img width="2000" height="520" alt="image" src="https://github.com/user-attachments/assets/51911fea-cb7d-4783-91ca-beb0507f5a47" />
 
@@ -32,8 +35,7 @@ Nov 2025
 
 ~~22 Nov 2025 - LAUNCH DAY~~ (delayed)
 
-April 2026
-- UPDATE - Motor changes due to shipment issues
+April 2026 - Motor changes due to shipment issues
 
 30 May 2026 - LAUNCH DAY
 
@@ -54,7 +56,7 @@ April 2026
 | Time to Apogee | seconds | 10.6 s |
 | Expected Apogee | m | 711 m |
 | Max Velocity | m/s | 183 m/s |
-| Max Acceleration | $m/s^2$ | 241 m/s² |
+| Max Acceleration | m/s² | 241 m/s² |
 | Ground hit velocity | m/s | 14.5 m/s |
 
 <img width="3684" height="996" alt="image" src="https://github.com/user-attachments/assets/e002c8b0-4903-4744-a35f-8284ae8a623f" />
